@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Start OctoBot",
+            "type": "python",
+            "request": "launch",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}/Async-Channel;${workspaceFolder}/OctoBot-Tentacles-Manager;${workspaceFolder}/OctoBot-Commons;${workspaceFolder}/OctoBot-Trading;${workspaceFolder}/OctoBot-Backtesting;${workspaceFolder}/OctoBot-evaluators;${workspaceFolder}/OctoBot-Services"
+            },
+            "program": "start.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/OctoBot",
+            "args": [""],
+            "justMyCode": true
+        }
+    ]
+}

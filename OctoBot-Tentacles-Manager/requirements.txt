@@ -1,0 +1,23 @@
+# Tentacles compilation requirements
+setuptools
+
+# Drakkar-Software requirements
+OctoBot-Commons>=1.8, <1.9
+
+# async files management
+aiofiles>=0.6.0, <0.7
+
+# async http requests
+aiohttp>=3.8.1
+
+# Templating requirements
+jinja2>=3.0.3
+
+# artifact metadata
+pyyaml>=6.0
+
+# version comparison
+packaging==21.3
+
+# s3
+aioboto3==9.3.1

@@ -1,0 +1,12 @@
+{
+    "python.analysis.extraPaths": [
+        "./OctoBot",
+        "./Async-Channel",
+        "./OctoBot-Backtesting",
+        "./OctoBot-Commons",
+        "./OctoBot-Services",
+        "./OctoBot-evaluators",
+        "./OctoBot-Trading",
+        "./OctoBot-Tentacles-Manager",
+    ]
+}

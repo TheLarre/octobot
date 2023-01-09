@@ -1,0 +1,2 @@
+# Setup requirements
+cython==0.29.32

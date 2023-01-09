@@ -1,0 +1,5 @@
+{
+  "required_time_frames" : ["4h","1h","30m"],
+  "required_evaluators" : ["LevelEvaluator"],
+  "default_config" : ["LevelEvaluator"]
+}

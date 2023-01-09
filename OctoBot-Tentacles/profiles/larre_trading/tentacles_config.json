@@ -1,0 +1,11 @@
+{
+    "tentacle_activation": {
+        "Evaluator": {
+            "LevelStrategyEvaluator": true,
+            "LevelEvaluator":true
+        },
+        "Trading": {
+            "LarreTradingMode": true
+        }
+    }
+}

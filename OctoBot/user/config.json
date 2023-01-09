@@ -1,0 +1,33 @@
+{
+    "accepted_terms": true,
+    "backtesting": {
+        "files": []
+    },
+    "exchanges": {
+        "binance": {
+            "api-key": "your-api-key-here",
+            "api-password": "your-api-password-here",
+            "api-secret": "your-api-secret-here",
+            "enabled": true,
+            "exchange-type": "spot"
+        }
+    },
+    "notification": {
+        "global-info": true,
+        "notification-type": [
+            "web"
+        ],
+        "other": true,
+        "price-alerts": true,
+        "trades": true,
+        "trading-script-alerts": true
+    },
+    "profile": "larre-trading",
+    "services": {
+        "web": {
+            "auto-open-in-web-browser": true,
+            "password": "",
+            "require-password": false
+        }
+    }
+}
