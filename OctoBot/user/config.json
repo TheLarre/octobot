@@ -29,5 +29,9 @@
             "password": "",
             "require-password": false
         }
+        "telegram": {
+            "chat-id": "-858406721",
+            "token": "5760941074:AAHNFfCASkLz41o9ad3jtBYhwYfqVQ1TZy8"
+        }
     }
 }
